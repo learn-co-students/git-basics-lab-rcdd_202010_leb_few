@@ -94,7 +94,7 @@ To get all tests passing in this lab, follow the steps below, applying commands
 you've learned in the previous lessons.
 
 ### Steps
-
+/home/honest-fork-0602/git-basics-lab-rcdd_202010_leb_few/my-repository/.git/
 As we saw above, there are **six** broken tests. Let's get them working.
 
 1. Create a new directory locally named `my-repository`. This directory should
@@ -155,7 +155,7 @@ Almost done! Change _back_ into the `my-repository` directory.
 
 8. Create a remote repository on [GitHub][github] using your personal GitHub
    account. When we create a blank repository, we are given instructions for
-   adding that repository as a remote.  Copy the first line (`git remote add
+   adding that repository as a remote.  Copy the figitrst line (`git remote add
    origin...`) and paste-and-run it from your command line to connect your local
    repository with the new remote one.
 
